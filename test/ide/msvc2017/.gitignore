@@ -1,0 +1,7 @@
+.vs/
+int_dbg32/
+int_dbg64/
+int_rel32/
+int_rel64/
+*.vcxproj.filters
+*.vcxproj.user
